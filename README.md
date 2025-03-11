@@ -7,7 +7,7 @@ A simple command-line tool to download YouTube videos in the highest quality. I 
 - Downloads video and audio streams separately for highest quality
 - Automatically merges streams using FFmpeg
 - Shows download progress in real-time
-- Supports authentication with YouTube cookies
+- Supports authentication with YouTube cookies (not sure this works, I haven't tested it)
 
 ## Installation
 
