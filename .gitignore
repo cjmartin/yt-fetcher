@@ -1,0 +1,41 @@
+# Node modules
+node_modules
+
+# Build and compiled output directories
+dist
+build
+files
+
+# TypeScript declaration files
+*.d.ts
+
+# Logs
+npm-debug.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE and editor settings
+.vscode
+CLAUDE.md
+
+# ESLint and Prettier cache
+.eslintcache
+
+# Miscellaneous
+*.log
+*.tmp
+*.temp
+
+# Coverage directory
+coverage
+
+# Temp files
+.tmp
+.cache
